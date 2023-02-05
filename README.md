@@ -1,2 +1,2 @@
 - [Preview](https://github.com/Esteban4769/fe_feb23)
-- [Pull Request](https://github.com/Esteban4769/fe_feb23/pull/1)git 
+- [Pull Request](https://github.com/Esteban4769/fe_feb23/pull/1) 
